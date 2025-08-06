@@ -1,0 +1,8 @@
+# requirements.txt
+
+crewai==0.30.0
+crewai-tools==0.1.7
+langchain-community==0.0.32
+python-dotenv==1.0.1
+google-generativeai
+requests

@@ -1,0 +1,1 @@
+I was unable to find any videos on the MKBHD YouTube channel related to "The Truth about Drone Deliveries!" using the available search tool.  Therefore, I cannot provide a summary of the video's content.  To create a blog post on this topic, you'll need to find information from other sources.
